@@ -7,7 +7,7 @@ The board can use standard cc2530 (4dBm module E18-MS1-PCB) or amplified cc2530 
 It is provided with standard ICSP connector; the firmware can be flashed using **CC-debugger**, **SmartRF04EB** or a **Raspberry used as programmer**.
 Available I/O and electrical features are shown in the picture below.
 
-<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="850'">
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="850">
 
 
 ## COOKBOOK
