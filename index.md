@@ -1,5 +1,3 @@
-# Z1 Mini
-
 
 Z1 Mini is a **development board** based on **cc2530** chip (in E-byte module). 
 Whit this board and great firmwares like this one, it is possible to build various **custom zigbee end devices**.
