@@ -19,7 +19,7 @@ Z1-Mini can be flashed in two ways:
 
 ### With flasher/debugger CC-debugger or SmartRF04EB
 - download and install [Texas Instruments Smart RF Flash Programmer](https://www.ti.com/tool/FLASH-PROGRAMMER) (**version 1.12.8**)
-- connect the debugger using 10 pin flat cable (pay attention to pin 1 position and to the correct alignement of the flat connector with the board connector!!!)
+- connect the debugger using 10 pin flat cable (**!!! pay attention to pin 1 position and to the correct alignement of the flat connector with the board connector !!!**)
 
 ## COOKBOOK
 
