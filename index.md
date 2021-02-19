@@ -1,4 +1,6 @@
+- [How to flash](#how-to-flash)
 - [Cookbook](#cookbook)
+
 
 Z1 Mini is a **development board** based on **cc2530** chip (with Ebyte module). 
 Whit this board and great firmwares [like this one](https://ptvo.info/zigbee-switch-configurable-firmware-v2-210/), it is possible to build various **custom zigbee end devices**.
@@ -12,7 +14,10 @@ Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible t
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
 
 
-# COOKBOOK
+## HOW TO FLASH
+Z1-Mini can be flashed in three ways:
+
+## COOKBOOK
 
 - [PZEM ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-zigbee-meter)
 
