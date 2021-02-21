@@ -1,8 +1,6 @@
 - [Firmware getting started guide](https://gio-dot.github.io/Z1-Mini/firmware-getting-started)
 - [How to flash](https://gio-dot.github.io/Z1-Mini/how-to-flash)
 - [Cookbook](#cookbook)
-- [Where to find Z1-Mini](#how-to-flash) 
-
 
 Z1 Mini is a **development board** based on **cc2530** chip (with Ebyte module). 
 Whit this board and great firmwares [like this one](https://ptvo.info/zigbee-switch-configurable-firmware-v2-210/), it is possible to build various **custom zigbee end devices**.
