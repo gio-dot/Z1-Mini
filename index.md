@@ -14,15 +14,16 @@ Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible t
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
 Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where ther are issues related to distance and/or obstacles, version equipped with E18-MS1PA2-PCB amplified module, may be recommended.
 
-## Where to find Z1-Mini
-
-Z1-Mini assembled and tested can be found on Tindie
 
 ## COOKBOOK
 
 - [PZEM ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-zigbee-meter)
 
 - [PZEM THREE-PHASE ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-three-phase-zigbee-meter)
+
+## Where to find Z1-Mini
+
+Z1-Mini assembled and tested can be found on Tindie
 
 
 
