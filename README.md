@@ -1,5 +1,6 @@
 # Z1-Mini
 Zigbee end devices development board
+
 Full documentation [here](https://gio-dot.github.io/Z1-Mini/)
 
 
