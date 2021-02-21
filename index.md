@@ -1,5 +1,5 @@
-- [Firmware getting started guide](#how-to-flash) 
-- [How to flash](#how-to-flash)
+- [Firmware getting started guide](https://gio-dot.github.io/Z1-Mini/firmware-getting-started)
+- [How to flash](https://gio-dot.github.io/Z1-Mini/how-to-flash)
 - [Cookbook](#cookbook)
 - [Where to find Z1-Mini](#how-to-flash) 
 
@@ -16,7 +16,9 @@ Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible t
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
 
 
+## Where to find Z1-Mini
 
+Z1-Mini assembled and tested can be found on Tindie
 
 ## COOKBOOK
 
