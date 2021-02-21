@@ -1,5 +1,7 @@
+- [Firmware getting started guide](#how-to-flash) 
 - [How to flash](#how-to-flash)
 - [Cookbook](#cookbook)
+- [Where to find Z1-Mini](#how-to-flash) 
 
 
 Z1 Mini is a **development board** based on **cc2530** chip (with Ebyte module). 
