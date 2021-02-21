@@ -16,12 +16,7 @@ Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible t
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
 
 
-## HOW TO FLASH
-Z1-Mini can be flashed in two ways: 
 
-### With flasher/debugger CC-debugger or SmartRF04EB
-- download and install [Texas Instruments Smart RF Flash Programmer](https://www.ti.com/tool/FLASH-PROGRAMMER) (**version 1.12.8**)
-- connect the debugger using 10 pin flat cable (**!!! pay attention to pin 1 position and to the correct alignement of the flat connector with the board connector !!!**)
 
 ## COOKBOOK
 
