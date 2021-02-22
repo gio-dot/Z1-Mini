@@ -50,7 +50,7 @@ Once a .hex file is created, **there are 2 ways to flash Z1-Mini** whit it:
     ```
     ./cc_write NAME-OF-YOUR-FILE.hex -m 300
     ```
-9. Done! Z1-Mini start and try to connect to the available coordinator (orange led flash quickly). Once connected led will flash slowly. Now can shut ofF and disconnect Z1-Mini from Raspberry.
+9. Done! Z1-Mini start and try to connect to the available coordinator (orange led flash quickly). Once connected led will flash slowly. Now can shut off and disconnect Z1-Mini from Raspberry.
 
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Flash-Z1%20Mini-Raspberry_bb.800PX.png?raw=true"  />
