@@ -3,7 +3,7 @@
 
 Once a .hex file is created, **there are 2 ways to flash Z1-Mini** whit it:
 
-### Using CC-Debugger or SmartRF04EB
+### With CC-Debugger or SmartRF04EB
 
 <p float="left">
   <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/SmartRF04EB.jpg?raw=true" width="300" />
@@ -21,7 +21,7 @@ Once a .hex file is created, **there are 2 ways to flash Z1-Mini** whit it:
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/2021-02-20%2023_53_19-Texas%20Instruments%20SmartRF%C2%AE%20Flash%20Programmer.png?raw=true" />
 
 
-### Using a Raspberry without any programmer
+### With a Raspberry without any programmer
 
 1. Install Wiringpi:
     ```
