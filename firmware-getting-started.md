@@ -1,6 +1,6 @@
 ## [Z1-Mini](https://gio-dot.github.io/Z1-Mini/)/Firmware getting started guide
 
-In order to build custom zigbee end devices, a dedicated firmware is needed. There is a great project for this: [PTVO created a great firmware configurator](https://ptvo.info/zigbee-configurable-firmware-features/) for CC2530. With this can be created zigbee end devices like sensors, switches, and many other configurations.
+In order to build custom zigbee end devices, a dedicated firmware is needed. There is a great project for this: [PTVO created a firmware configurator](https://ptvo.info/zigbee-configurable-firmware-features/) for CC2530. With this can be created zigbee end devices like sensors, switches, and many other configurations.
 Below a quick start guide to use firmware configurator; for more information follow the author site and/or [CookBook](https://gio-dot.github.io/Z1-Mini/#cookbook) section.
 
 1. Download and unpack, in a folder of your choice, the [Firmware configurator PC software](https://ptvo.info/zigbee-switch-configurable-firmware-v2-210/#download) (only for Windows); no installation is needed.
