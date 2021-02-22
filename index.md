@@ -17,6 +17,8 @@ Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where
 
 ## COOKBOOK
 
+- [8 RELAY - 8 BUTTONS](https://gio-dot.github.io/Z1-Mini/8relay-8buttons)
+
 - [PZEM ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-zigbee-meter)
 
 - [PZEM THREE-PHASE ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-three-phase-zigbee-meter)
