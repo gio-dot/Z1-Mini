@@ -37,20 +37,20 @@ Once a .hex file is created, **there are 2 ways to flash Z1-Mini** whit it:
     cd flash_cc2531
     ./cc_chipid
     ```
-should return..
+5. should return..
     ```
     ID = b524
     ```
-5. Using WinSCP copy .hex created firmware to flash in **flash_cc2531** folder of the raspberry.
-6. Again in SSH: erase cc2530 chip:
+6. Using WinSCP copy .hex created firmware to flash in **flash_cc2531** folder of the raspberry.
+7. Again in SSH: erase cc2530 chip:
     ```
     ./cc_erase
     ```
-7. Flash .hex firmware file on cc2530:
+8. Flash .hex firmware file on cc2530:
     ```
     ./cc_write NAME-OF-YOUR-FILE.hex -m 300
     ```
-8. Done! Z1-Mini start and try to connect to the available coordinator (orange led flash quickly). Once connected led will flash slowly. Now can shut ofF and disconnect Z1-Mini from Raspberry.
+9. Done! Z1-Mini start and try to connect to the available coordinator (orange led flash quickly). Once connected led will flash slowly. Now can shut ofF and disconnect Z1-Mini from Raspberry.
 
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Flash-Z1%20Mini-Raspberry_bb.800PX.png?raw=true"  />
