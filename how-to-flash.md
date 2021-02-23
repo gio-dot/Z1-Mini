@@ -12,7 +12,7 @@ Once a .hex file is created, **there are 2 ways to flash Z1-Mini** whit it:
 
 1. Download and install SmartRF Flash programmer 1.12.8 (not V2) from [Texas Instruments site](http://www.ti.com/tool/flash-programmer)
 2. Connect CC-Debugger or SmartRF04EB to PC: check if driver are automatically recognized in device manager.
-3. Disconnect CC-Debugger or SmartRF04EB from PC; connect 10 pin flat cable between programmer and Z1-Mini. Pay attention to the **correct connector alignment and orientation (pin 1 on pin 1)!!!**. Connect again debugger to the PC.
+3. Disconnect CC-Debugger or SmartRF04EB from PC; connect 10 pin flat cable between programmer and Z1-Mini. Pay attention to the **correct connector alignment and orientation (pin 1 on pin 1)!!!**. Depending on programmer features, board should be powered externally or not; if board doesn't appear in Flash programmer software, must be powered externally (pins V+ and GND). Connect again debugger to the PC.
 4. Open Flash programmer software: debugger and CC2530 should appear in System on chip section; if not press reset button on debugger.
 5. Set options as image below and choose .hex file to flash in Flash image frame.
 6. Press Perform action and wait until Program and verify OK message appear.
