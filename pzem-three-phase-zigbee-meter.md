@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini-3xPZEM-016_bb-900PX.png?raw=true">
 
-To use 3 PZEM modbus ID address of each one must be changed (otherwise all have the same address). To do so Peacefair PC software (Windows only) can be used.
+To use 3 PZEM, modbus ID address of each one must be changed (otherwise all have the same). To do so Peacefair PC software (Windows only) can be used.
 Download the [software](https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/docs/PZEM014%2C016-Master-English.zip) and unzip in a folder of your choice (no installation needed); connect PZEM (each at a time) to the computer using a RS485 to USB converter and change PZEM address in Set parameters section (see image below). Repeat this step for each PZEM setting 1, 2 and 3.
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/2021-02-23%2011_22_35-PZEM014%20Master%20-%20Ningbo%20Peacefair%20Electronic%20Technology%20Co.,Ltd.png?raw=true">
