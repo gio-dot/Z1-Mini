@@ -12,7 +12,7 @@ Available I/O and electrical features are shown in the picture below.
 
 Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible to use 3.3V available on relative pin to power sensors etc. Maximum available current is about **200mA**.
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
-Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where ther are issues related to distance and/or obstacles, version equipped with E18-MS1PA2-PCB amplified module, may be recommended.
+Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where there are issues related to distance and/or obstacles, version equipped with E18-MS1PA2-PCB amplified module, may be recommended.
 
 
 ## COOKBOOK

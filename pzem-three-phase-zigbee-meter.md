@@ -2,6 +2,14 @@
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini-3xPZEM-016_bb-900PX.png?raw=true">
 
+
+PZEM's can be connected to the Z1-Mini with an RS485 to UART converter with automatic flow control (so no RE-DE connection is needed). Adapter like [this](https://www.amazon.it/Serial-Mutual-Conversion-Automatic-Control/dp/B07RKY1G71/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=rs485+to+uart&qid=1614076665&sr=8-4) or [this](https://it.aliexpress.com/item/32864362561.html?spm=a2g0o.productlist.0.0.5503714fI17cfY&algo_pvid=0046253e-bee0-4b79-b8c4-71c4a32c57fd&algo_expid=0046253e-bee0-4b79-b8c4-71c4a32c57fd-9&btsid=0bb0623f16119252544065155e4078&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) can be used.
+
+To use 3 PZEM, modbus ID address of each one must be changed (otherwise all have the same). To do so Peacefair PC software (Windows only) can be used.
+Download the [software](https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/docs/PZEM014%2C016-Master-English.zip) and unzip in a folder of your choice (no installation needed); connect PZEM (each at a time) to the computer using a RS485 to USB converter and change PZEM address in Set parameters section (see image below). Repeat this step for each PZEM setting 1, 2 and 3.
+
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/2021-02-23%2011_22_35-PZEM014%20Master%20-%20Ningbo%20Peacefair%20Electronic%20Technology%20Co.,Ltd.png?raw=true">
+
 ### Home assistant lovelace panel:
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/PZEM-Zigbee-trifase-lovelace.png?raw=true">
