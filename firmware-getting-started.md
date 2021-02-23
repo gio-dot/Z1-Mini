@@ -13,3 +13,9 @@ Below a quick start guide to use firmware configurator; for more information fol
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Firmware%20Configuration%201.3.6.0%20(Firmware_%202021-01-14).png?raw=true" width="850">
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/5-Firmware%20Configuration%201.3.6.0%20(Firmware_%202021-01-14).png?raw=true" width="850">
+
+### Zigbee2mqtt device appearence
+
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/2021-02-23%2011_53_36-Zigbee2MQTT.png?raw=true).png?raw=true" width="850">
+
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/2021-02-23%2011_53_14-Zigbee2MQTT.png?raw=true" width="850">
