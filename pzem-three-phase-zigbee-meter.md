@@ -52,62 +52,62 @@ With setting below, data are fetched every 20s (Expert tab, Reporting interval).
     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
     unit_of_measurement: "V"
     value_template: "{{ value_json.voltage_l2 }}"
-  - platform: mqtt
-    name: "PZEM Amp S"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "A"
-    value_template: "{{ value_json.current_l2 }}"
-  - platform: mqtt
-    name: "PZEM Watt S"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "W"
-    value_template: "{{ value_json.power_l2 }}"
-  - platform: mqtt
-    name: "PZEM Power Factor S"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: ""
-    value_template: "{{ value_json.power_factor_l2 }}"
-  - platform: mqtt
-    name: "PZEM Frequency S"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "Hz"
-    value_template: "{{ value_json.frequency_l2 }}" 
-  - platform: mqtt
-    name: "PZEM Energy S"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "Wh"
-    value_template: "{{ value_json.energy_l2 }}" 
+   - platform: mqtt
+     name: "PZEM Amp S"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "A"
+     value_template: "{{ value_json.current_l2 }}"
+   - platform: mqtt
+     name: "PZEM Watt S"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "W"
+     value_template: "{{ value_json.power_l2 }}"
+   - platform: mqtt
+     name: "PZEM Power Factor S"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: ""
+     value_template: "{{ value_json.power_factor_l2 }}"
+   - platform: mqtt
+     name: "PZEM Frequency S"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "Hz"
+     value_template: "{{ value_json.frequency_l2 }}" 
+   - platform: mqtt
+     name: "PZEM Energy S"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "Wh"
+     value_template: "{{ value_json.energy_l2 }}" 
 
-  - platform: mqtt
-    name: "PZEM Volt T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "V"
-    value_template: "{{ value_json.voltage_l3 }}"
-  - platform: mqtt
-    name: "PZEM Amp T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "A"
-    value_template: "{{ value_json.current_l3 }}"
-  - platform: mqtt
-    name: "PZEM Watt T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "W"
-    value_template: "{{ value_json.power_l3 }}"
-  - platform: mqtt
-    name: "PZEM Power Factor T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: ""
-    value_template: "{{ value_json.power_factor_l3 }}"
-  - platform: mqtt
-    name: "PZEM Frequency T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "Hz"
-    value_template: "{{ value_json.frequency_l3 }}" 
-  - platform: mqtt
-    name: "PZEM Energy T"
-    state_topic: "zigbee2mqtt/0x00124b0022608e5a"
-    unit_of_measurement: "Wh"
-    value_template: "{{ value_json.energy_l3 }}"   
+   - platform: mqtt
+     name: "PZEM Volt T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "V"
+     value_template: "{{ value_json.voltage_l3 }}"
+   - platform: mqtt
+     name: "PZEM Amp T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "A"
+     value_template: "{{ value_json.current_l3 }}"
+   - platform: mqtt
+     name: "PZEM Watt T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "W"
+     value_template: "{{ value_json.power_l3 }}"
+   - platform: mqtt
+     name: "PZEM Power Factor T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: ""
+     value_template: "{{ value_json.power_factor_l3 }}"
+   - platform: mqtt
+     name: "PZEM Frequency T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "Hz"
+     value_template: "{{ value_json.frequency_l3 }}" 
+   - platform: mqtt
+     name: "PZEM Energy T"
+     state_topic: "zigbee2mqtt/0x00124b0022608e5a"
+     unit_of_measurement: "Wh"
+     value_template: "{{ value_json.energy_l3 }}"   
     
     
   ```
