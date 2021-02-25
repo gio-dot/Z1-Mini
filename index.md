@@ -25,6 +25,8 @@ Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where
 
 - [MULTISENSOR AIR QUALITY](https://gio-dot.github.io/Z1-Mini/multisensor-air-quality)
 
+- [MULTISENSOR AIR QUALITY CO2](https://gio-dot.github.io/Z1-Mini/multisensor-air-quality-co2)
+
 ## Where to find Z1-Mini
 
 Z1-Mini assembled and tested can be found on [Tindie](https://www.tindie.com/products/22856/)
