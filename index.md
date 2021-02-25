@@ -23,6 +23,8 @@ Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where
 
 - [PZEM THREE-PHASE ZIGBEE METER](https://gio-dot.github.io/Z1-Mini/pzem-three-phase-zigbee-meter)
 
+- [MULTISENSOR AIR QUALITY](https://gio-dot.github.io/Z1-Mini/multisensor-air-quality)
+
 ## Where to find Z1-Mini
 
 Z1-Mini assembled and tested can be found on Tindie
