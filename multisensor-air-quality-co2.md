@@ -6,4 +6,4 @@ This configuration will give readings coming from [BME280](https://www.amazon.co
 Resistor on Z1-Mini RX line is used to protect CC2530 since Senseair is a 5V sensor.
 
 
-<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Air%20quality%20sensor%20PTVO.png?raw=true">
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini-air%20quality-CO2-firmware.png?raw=true">
