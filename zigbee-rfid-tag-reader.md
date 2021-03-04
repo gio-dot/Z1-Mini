@@ -2,10 +2,20 @@
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1-Mini%20Wiegand_bb-850.png?raw=true">
 
-With this project a cool zigbee RFID tag reader can be built. Tag reader is realized with a cheap arduino nano that communicate with Z1-Mini using UART. Arduino code can be easily adapted to work with various tag readers: RC522, PN532, Wiegand etc. Z1-Mini setting is the same for all. Readed codes can be managed in Home assistant using mqtt binary sensors. It is even possible to send text commands from Home assistant to arduino to command outputs. In this example a time-delay relay is connected to arduino for door opening. It can be driven from home assistant sending a text command.
+With this project a cool ***zigbee RFID tag reader*** can be built. Tag reader is realized with a cheap arduino nano that communicate with Z1-Mini using UART. Arduino code can be easily adapted to work with various tag readers: ***RC522, PN532, Wiegand etc***. Z1-Mini setting is the same for all. Readed codes can be managed in Home assistant using mqtt binary sensors. It is even possible to send text commands from Home assistant to arduino to command outputs. In this example a time-delay relay is connected to arduino for door opening. It can be driven from home assistant sending a text command.
 
+### Home assistant codes management
+
+Create a binary sensor for each rfid tag using the code of each one. Codes can be readed in zigbee2mqtt log.
 
  ```
- sensor:
+ binary_sensor:  
+  - platform: mqtt
+    name: "Z1 Wiegand"
+    payload_on: "4710313" # readed code
+    payload_off: ""
+    state_topic: "zigbee2mqtt/0x00124b0022609cd1/action" # topic where code is sent
+    expire_after: 1 # After 1s code is cleared
    
  ```
+
