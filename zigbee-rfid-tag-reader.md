@@ -21,3 +21,16 @@ Create a binary sensor for each rfid tag using the code of each one. Codes can b
    
  ```
 
+### Send zigbee Text commands from Homeassistant to arduino example
+
+In example below, code "1" is sent to arduino using an mqtt switch; when arduino read it, a time-delay relay is activated.
+
+```
+ switch: 
+  - platform: mqtt
+    name: "Door Switch"
+    state_topic: "zigbee2mqtt/0x00124b0022609cd1/"
+    command_topic: "zigbee2mqtt/0x00124b0022609cd1/set/action"
+    payload_on: "{{1}}"
+   
+ ```
