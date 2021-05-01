@@ -22,6 +22,8 @@ Rev. A can be powered by ICSP connector and by V+ Pin (max 13,2V);
 Rev. B can be powered by ICSP connector, by USB connector and by V+ Pin (max 13,2V). A small ICSP adapter board is provided (optional).
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="800" />
+
+
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Rev.B%20Pinout.png?raw=true" width="800" /> 
 
 
