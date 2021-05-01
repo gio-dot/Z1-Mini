@@ -9,7 +9,11 @@ The board can use standard cc2530 (4dBm module E18-MS1-PCB) or amplified cc2530 
 It is provided with standard ICSP connector; the firmware can be flashed using **CC-debugger**, **SmartRF04EB** or a **Raspberry used as programmer**.
 Available I/O and electrical features are shown in the picture below.
 
-<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="850">
+<img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/20210430_192802.jpg?raw=true" width="850">
+<p float="left">
+  <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="425" />
+  <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Rev.B%20Pinout.png?raw=true" width="425" /> 
+</p>
 
 Board can be powered on +V pin with a voltage of **max 13.2V**. It is possible to use 3.3V available on relative pin to power sensors etc. Maximum available current is about **200mA**.
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
