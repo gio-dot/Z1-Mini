@@ -15,14 +15,12 @@ Board can be powered on +V pin with a voltage of **max 13.2V** (it is provided w
 Voltage level on all pins is **+3.3V**. For 5V level a 1k to 5.1k must be added in series (not recommended, risk of damage may exist. Use of voltage level translator recommended).
 Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where there are issues related to distance and/or obstacles, version equipped with E18-MS1PA2-PCB amplified module, may be recommended.
 
-Rev.A and Rev.B have the same functionality but:
+**Rev.A and Rev.B have the same functionality but:**
 
-Rev. A can be powered by ICSP connector and by V+ Pin (max 13,2V);
-
-Rev. B can be powered by ICSP connector, by USB connector and by V+ Pin (max 13,2V). A small ICSP adapter board is provided (optional).
+- Rev. A can be powered by ICSP connector and by V+ Pin (max 13,2V);
+- Rev. B can be powered by ICSP connector, by USB connector and by V+ Pin (max 13,2V). A small ICSP adapter board is provided (optional).
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="800" />
-
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Rev.B%20Pinout.png?raw=true" width="800" /> 
 
