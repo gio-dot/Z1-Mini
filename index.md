@@ -17,7 +17,7 @@ Z1 Mini with standard E18-MS1-PCB zigbee module can be used in most cases; where
 
 **Rev.A and Rev.B have the same functionality but:**
 
-- Rev. A can be powered by ICSP connector and by V+ Pin (max 13,2V);
+- Rev. A can be powered by ICSP connector and by V+ Pin (max 13,2V); provided with standard ICSP connector.
 - Rev. B can be powered by ICSP connector, by USB connector and by V+ Pin (max 13,2V). A small ICSP adapter board is provided (optional).
 
 <img src="https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/images/Z1%20Mini%20Pinout.png?raw=true" width="800" />
