@@ -8,11 +8,11 @@ With this project a cool ***zigbee RFID tag reader*** can be built. Tag reader i
 
 ### Arduino code
 
-https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/Files/Z1-mini-wiegand.ino
+[Z1-mini-wiegand.ino](https://github.com/Gio-dot/Z1-Mini/blob/gh-pages/Files/Z1-mini-wiegand.ino)
 
 Wiegand library can be found here:
 
-https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino
+[Monkeyboard Wiegand Library](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino)
 
 ### Home assistant codes management
 
