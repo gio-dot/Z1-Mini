@@ -88,7 +88,7 @@ void loop()
 
 	if ( (ch == '1')or(In2rd== 0) )
 		{
-			ch= 0;	// azzero ch sennò mi blocca SEMPRE ACCESO
+			ch= 0;	// azzero ch altrimenti blocca SEMPRE ACCESO
 			digitalWrite(Out1, HIGH);
 			delay(500);
 			digitalWrite(Out1, LOW);
